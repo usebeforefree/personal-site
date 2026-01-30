@@ -45,7 +45,7 @@ menu = [
 ]
 
 socials = [
-    { name = "github", url = "https://github.com/marko03kostic/", icon = "github" },
+    { name = "github", url = "https://github.com/usebeforefree/", icon = "github" },
 ]
 
 stylesheets = [
