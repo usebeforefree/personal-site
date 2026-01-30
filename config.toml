@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://kosticmarko.blog"
 
 # Whether to build a search index to be used later on by a JavaScript library
 theme = "apollo"
@@ -36,7 +36,6 @@ fancy_code = true
 dynamic_note = true           # a note that can be toggled
 mathjax = true
 mathjax_dollar_inline_enable = true
-repo_url = "https://github.com/not-matthias/apollo/tree/main/content/"
 
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
